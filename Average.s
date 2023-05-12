@@ -1,4 +1,4 @@
-/*	AREA lab_4, CODE, READONLY
+	AREA lab_4, CODE, READONLY
 	ENTRY
 	EXPORT main
 	EXPORT average
@@ -19,4 +19,3 @@ average
 stop B stop
 n DCD 5,10,15,20,25
 	END
-*/
