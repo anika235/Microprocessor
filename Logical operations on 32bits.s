@@ -1,4 +1,4 @@
-/*	AREA lab_4, CODE, READONLY
+	AREA lab_4, CODE, READONLY
 	ENTRY
 	EXPORT main
 main
@@ -25,4 +25,3 @@ main
 
 STOP B STOP
     END
-*/
